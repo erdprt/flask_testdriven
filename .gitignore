@@ -1,4 +1,6 @@
 __pycache__
+services/users/projects/__pycache__
+services/users/projects/api/__pycache__
 env
 services/htmlcov
 services/users/project/venv
