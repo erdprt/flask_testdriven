@@ -1,2 +1,4 @@
 __pycache__
 env
+services/htmlcov
+services/users/project/venv
